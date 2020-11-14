@@ -18,9 +18,9 @@ const styles = theme => ({
     marginTop: theme.spacing(3),
     overflowX: 'auto'
   },
-  table: {
-    minWidth: 1080
-  },
+  // table: {
+  //   minWidth: 1080
+  // },
   progress: {
     margin: theme.spacing(2)
   }
